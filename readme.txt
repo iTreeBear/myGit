@@ -1,2 +1,2 @@
 # Runoob Git 测试
-# mytest 123456
+# mytest 123
